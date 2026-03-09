@@ -109,10 +109,10 @@ http://localhost:5273/swagger
 # → Pop-up qe shon listen e librave me userId dhe title
 
 # sqlite3 ... "SELECT * FROM Users"
-# → Shiaj te gjitha users tek database (Id, Email, Password hash, Name)
+# → Shiko te gjitha users tek database (Id, Email, Password hash, Name)
 
 # sqlite3 ... "SELECT * FROM Books"
-# → Shiaj te gjitha librat tek database (Id, Title, Author, Status, UserId)
+# → Shiko te gjitha librat tek database (Id, Title, Author, Status, UserId)
 
 # -header -column
 # → Format output me headers dhe columns aligned (me lehte per te lexuar)
